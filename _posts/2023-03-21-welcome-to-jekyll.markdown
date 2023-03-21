@@ -30,4 +30,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 HELLOOO!!!!!!!!
 
-![alt text](Polarplot.png "Title")
+![alt text](https://github.com/ToreVang/ToreVang.github.io/_posts/Polarplot.png "Title")
