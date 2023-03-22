@@ -7,27 +7,13 @@ categories: jekyll update
 You’ll find this post in your `_posts` directory. Go ahead and edit it and 
 <!-- ![alt text](https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/assets/images/Polarplot.png) -->
 
-<!-- <embed 
-       type="text/html" 
-       src="./custom_filename.html"
-       width="1300"
-       height="800"
-       >
-</embed> -->
-<!-- <embed
-       type="text/html" 
-       src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/assets/images/periodic.html"
-       width="1100"
-       height="600"
-       >
-</embed> -->
+
 <embed
        type="text/html" 
-       X-Frame-Options: SAMEORIGIN
        src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/periodic.html"
        width="1100"
        height="600"
        >
 </embed>
 
-<iframe src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/periodic.html" width="1100" height="600" X-Frame-Options: SAMEORIGIN></iframe>
+<iframe src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/periodic.html" width="1100" height="600" ></iframe>
