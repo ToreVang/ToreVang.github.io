@@ -23,7 +23,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and
 </embed> -->
 <embed
        type="text/html" 
-       src="https://github.com/ToreVang/ToreVang.github.io/blob/main/public/periodic.html"
+       src="file:///home/tore/Documents/Socialdata/ToreVang.github.io/public/periodic.html"
        width="1100"
        height="600"
        >
