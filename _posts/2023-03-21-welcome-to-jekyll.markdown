@@ -16,7 +16,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and
 </embed> -->
 <embed 
        type="text/html" 
-       src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/_posts/periodic.html"
+       src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/assets/images/periodic.html"
        width="1100"
        height="600"
        >
