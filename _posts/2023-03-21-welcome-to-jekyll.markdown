@@ -23,10 +23,10 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and
 </embed> -->
 <embed
        type="text/html" 
-       src="https://github.com/ToreVang/ToreVang.github.io/blob/main/public/periodic.html"
+       src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/periodic.html"
        width="1100"
        height="600"
        >
 </embed>
 
-<iframe src="https://github.com/ToreVang/ToreVang.github.io/blob/main/public/periodic.html" width="1100" height="600"></iframe>
+<iframe src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/periodic.html" width="1100" height="600"></iframe>
