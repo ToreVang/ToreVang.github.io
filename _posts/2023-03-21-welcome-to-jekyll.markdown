@@ -36,3 +36,4 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and
        >
 </embed>
 <iframe src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/periodic.html" width="1100" height="600"></iframe>
+<iframe src="/home/tore/Documents/Socialdata/ToreVang.github.io/public.html" width="1100" height="600"></iframe>
