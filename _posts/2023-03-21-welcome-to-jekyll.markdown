@@ -7,9 +7,16 @@ categories: jekyll update
 You’ll find this post in your `_posts` directory. Go ahead and edit it and 
 <!-- ![alt text](https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/assets/images/Polarplot.png) -->
 
+<!-- <embed 
+       type="text/html" 
+       src="./custom_filename.html"
+       width="1300"
+       height="800"
+       >
+</embed> -->
 <embed 
        type="text/html" 
-       src="file:///home/tore/Documents/Socialdata/ToreVang.github.io/custom_filename.html"
+       src="/home/tore/Documents/Socialdata/ToreVang.github.io/_posts/periodic.html"
        width="1100"
        height="600"
        >
