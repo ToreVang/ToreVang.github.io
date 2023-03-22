@@ -5,7 +5,7 @@ date:   2023-03-21 12:07:31 +0100
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and 
-<!-- ![alt text](https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/assets/images/Polarplot.png) -->
+![alt text](https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/assets/images/Polarplot.png)
 
 <!-- <embed 
        type="text/html" 
@@ -16,7 +16,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and
 </embed> -->
 <embed 
        type="text/html" 
-       src="/home/tore/Documents/Socialdata/ToreVang.github.io/_posts/periodic.html"
+       src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/_posts/periodic.html"
        width="1100"
        height="600"
        >
