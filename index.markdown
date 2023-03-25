@@ -46,4 +46,4 @@ The bar chart below gives a insight into the 15 crimes with highest occurence. I
     width="1400"
     height="900"
     >
-</embed>
+<!-- </embed> -->
