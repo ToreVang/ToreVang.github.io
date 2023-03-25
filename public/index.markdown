@@ -3,7 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 # layout: home
+layout: default
 ---
+
+<!-- <link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.scss' | relative_url }}"> -->
+
+<!-- ![alt text]({{site.baseurl}}/public/barchart.png) -->
 
 <div class="columns">
     <div class="column">
@@ -13,18 +18,17 @@
     </div>
     <div class="column">
         <div class="content">
-            ![alt text]({{site.baseurl}}/public/barchart.png)
             <p> San Francisco, the city known for its scenic beauty, diverse population, and cultural landmarks. Over the past decade, San Francisco has seen a sharp rise in theft, with reports of stolen property on the rise. A quick glance at a map highlighting the areas where theft has increased the most between 2011 and 2017 reveals a disturbing trend. Looking at the bar chart, theft counts in 2005 and 2010 were relatively similar, with around 25 000 reported theft incidents in each year. Theft in San Francisco has been steadily increasing since 2011, with no signs of deceleration. The city's police department has been struggling with the issue for years, trying to come up with ways to check the surge in criminal behavior. Despite their efforts, however, the number of thefts continues to rise. </p>
         </div>  
     </div>
     <div class="column">
         <div class="content">
-            ![alt text]({{site.baseurl}}/public/map11.png)
             <p> San Francisco, the city known for its scenic beauty, diverse population, and cultural landmarks. Over the past decade, San Francisco has seen a sharp rise in theft, with reports of stolen property on the rise. A quick glance at a map highlighting the areas where theft has increased the most between 2011 and 2017 reveals a disturbing trend. Looking at the bar chart, theft counts in 2005 and 2010 were relatively similar, with around 25 000 reported theft incidents in each year. Theft in San Francisco has been steadily increasing since 2011, with no signs of deceleration. The city's police department has been struggling with the issue for years, trying to come up with ways to check the surge in criminal behavior. Despite their efforts, however, the number of thefts continues to rise. </p>
         </div>
     </div>
 </div>
 
+<!-- ![alt text]({{site.baseurl}}/public/barchart.png)
 
 San Francisco, the city known for its scenic beauty, diverse population, and cultural landmarks. Over the past decade, San Francisco has seen a sharp rise in theft, with reports of stolen property on the rise. A quick glance at a map highlighting the areas where theft has increased the most between 2011 and 2017 reveals a disturbing trend. Looking at the bar chart, theft counts in 2005 and 2010 were relatively similar, with around 25 000 reported theft incidents in each year. Theft in San Francisco has been steadily increasing since 2011, with no signs of deceleration. The city's police department has been struggling with the issue for years, trying to come up with ways to check the surge in criminal behavior. Despite their efforts, however, the number of thefts continues to rise.
 
@@ -42,3 +46,5 @@ The other cities have found success in implementing innovative strategies to fig
        >
 </embed>
 
+
+![alt text]({{site.baseurl}}/public/map11.png) -->
