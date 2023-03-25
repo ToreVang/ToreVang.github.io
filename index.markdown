@@ -47,3 +47,14 @@ The bar chart below gives a insight into the 15 crimes with highest occurence. I
     height="900"
     >
 <!-- </embed> -->
+
+### References
+
+https://www.sanfranciscopolice.org/sites/default/files/Documents/PoliceCommission/2016/Appendix%20K.pdf
+
+https://spotcrime.com/ca/san+francisco
+
+https://www.neighborhoodscout.com/ca/san-francisco/crime
+
+https://www.nyc.gov/home/search/index.page?search-terms=San+Francisco+theft
+
