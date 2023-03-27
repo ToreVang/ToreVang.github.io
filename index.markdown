@@ -5,7 +5,7 @@
 layout: default
 ---
 #### Data introduction
-blipblopbalblabla
+The data used for investigating the increased crime in San Francisco was taken from the webpage https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry that has a collection of datasets on the police department in the area. The dataset involves 2129525 crimes from 2003 to 2018, and collects information about Category, Date, Time, District, and Description of each crime, that can be used for a detailed description of the development of crime in the period.
 
 <div class="columns">
     <div class="column">
