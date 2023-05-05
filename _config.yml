@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Crime is rising in San Francisco
+title: Street trees in regions of Copenhagen 
 description: >- # this means to ignore newlines until "baseurl:"
-  Crime rate has been rising every since 2011, and does not seem to stop despite big effort. 
+  Street trees have been a large focus in many years in Copenhagen due to their many advantages. But trees are not equally distributed through the city.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
