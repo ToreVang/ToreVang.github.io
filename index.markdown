@@ -19,8 +19,6 @@ layout: default
             <em>The development of the number of total planted trees and number of different species of planted trees from 1920 to 2022. </em>
             <h4>Species</h4>
             Diversity is very important both to ensure more species and wildlife but also to decrease the risk of spreding decease among the trees, such that they die and have to be replanted. The stacked area plot below gives the number of planted trees for the 10 most represented species from 1920 to 2022, the remaining species is collected in "other". Notice that planting of trees is often done in big projects why the original data was very spiky, for better interpretation some smoothing was applied. The species are sorted such that the tree with heighst rations are shown at the top of the legend and in the button of the stacked area plot. The most represented species is "Lind", and the very popular street tree platan is the second most planted tree. The focus on diversity is very clear in both plots, and it can be seen that from year 2000, the degree of "other" trees has increased a lot. Interesetingly many of the most popular trees like Platan and Lind have seen a big decrease in these same years
-            <!-- The species of trees also differ much from region to region, one thing across many regions is that biodiversity is favored. The plot below shows a stacked area plot for the development of the planted species for all regions in copenhagen over years from 1920 to 2023.
-            In copenhagen Lind is the far most planted tree, this is because this was almost the only tree planted the earliest years, expect from a few regions like Brønshøj-Husum who has planted a steady amount of oaks from 1920 to 2023. -->
             </p>
         </div>
     </div>
@@ -49,7 +47,6 @@ layout: default
         </div>
     </div>
 </div>
-<!-- It is a shame that street trees are not When choosing where to live, trees might be a good indication of the quality of the neighborhood. If focusing completely on trees a high density should be preferable, but as seen, a high tree density is correlated to the trees per population size thus the population size, meaning that these areas often are crowded, which for some people are due to negative consequenses. These people should also take the trees per population size into account, these are the areas that have many tree but few people compared to trees. As mentioned these regions are also the most expensive. -->
 <!-- <embed
     type="text/html" 
     src="{{site.baseurl}}/public/custom_filename.html"
