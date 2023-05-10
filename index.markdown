@@ -14,7 +14,7 @@ layout: default
             Copenhagen is a city that has been focusing a lot on street trees over the past many years. This tendency is shown in the figure below of the development of planted trees in Copenhagen from 1920 to 2022. It both gives the number of trees planted and the number of different species planted. 
             The plot gives a clear impression that Copenhagen is focusing more and more on planting trees, but also that biodiversity is a key factor when choosing trees.
             This data does however not say anything about how many trees died or were cut down due to other reasons, and the amount of trees present could seem much different than the number of trees planted as shown here.
-            <img src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/tree_amount_tree_diversity.png"  width="700" height="550">
+            <img src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/tree_amount_tree_diversity.png"  width="700" height="550"> <br>
             <em>The development of the number of total planted trees and number of different species of planted trees from 1920 to 2022. </em>
             <h4>Species</h4>
             Diversity is very important both to ensure more species and wildlife but also to decrease the risk of spreding decease among the trees, such that they die and have to be replanted. The stacked area plot below gives the number of planted trees for the 10 most represented species from 1920 to 2022, the remaining species is collected in "other". Notice that planting of trees is often done in big projects why the original data was very spiky, for better interpretation some smoothing was applied. The species are sorted such that the tree with heighst rations are shown at the top of the legend and in the button of the stacked area plot. The most represented species is "Lind", and the very popular street tree platan is the second most planted tree. The focus on diversity is very clear in both plots, and it can be seen that from year 2000, the degree of "other" trees has increased a lot. Interesetingly many of the most popular trees like Platan and Lind have seen a big decrease in these same years </p>
@@ -22,12 +22,12 @@ layout: default
     </div>
     <div class="column">
         <div class="content">
-            <p> <img src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/stacked_copenhagen.png"  width="700" height="550">
+            <p> <img src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/stacked_copenhagen.png"  width="700" height="550"> <br>
             <em>The development of the number of total planted trees of each species in Copenhagen from 1920 to 2022. </em>
             <h4>Difference between regions</h4>
             Street trees thus both have physical, social and economical positive impacts and are therefore important in all cities. Street trees are however not equally representet in every part of Copenhagen, neither in terms of amount of trees or species. In the figure below is a combined bar chart of every part of Copenhagen showing the density of trees and trees/population ratio. As mentioned before this is the number of planted trees, the number of present tree might give a other understanding.
-            <img src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/tree_density_tree_population_ratio.png"  width="700" height="550"> </
-            <em>The density of trees and the number of planted trees per citizen in the region for each part of Copenhagen. </em>  </p>
+            <img src="https://raw.githubusercontent.com/ToreVang/ToreVang.github.io/main/public/tree_density_tree_population_ratio.png"  width="700" height="550">  <br>
+            <em> The density of trees and the number of planted trees per citizen in the region for each part of Copenhagen. </em>  </p>
         </div>
     </div>
     <div class="column">
