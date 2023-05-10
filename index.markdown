@@ -5,6 +5,10 @@
 layout: default
 ---
 
+Interested readers might want to check out the details in the jupyter notebook, including code on data analysis, preprocessing and plots: 
+[Notebook](https://nbviewer.org/github/ToreVang/ToreVang.github.io/blob/main/Assignment%20final/main.ipynb)
+
+
 <div class="columns">
     <div class="column">
         <div class="content">
